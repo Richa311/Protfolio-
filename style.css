@@ -1,3 +1,19 @@
 body {
-  background-color: rgb(179, 213, 230)
+  background-color: rgb(238, 202, 168)
+}
+h1{
+  color: rgb(48, 29, 1); 
+}
+
+h2{
+  color: rgb(65, 40, 3); 
+}
+
+h3{
+  color:rgb(87, 56, 20)
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,'Segoe UI', Roboto, 
+  Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
