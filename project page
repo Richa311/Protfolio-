@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1> Richa </h1><hr>
+    <p><h2> I have created 3 website and one 3d iteam on blender. I will talk about The blender item</h2></p>
+    <h1>The keychain made on Blender </h1>
+     <ul>
+                <li><A href="index.html"> HOME </a></li>
+    </ul>
+    <img src="image folder/3d model.png" alt=" keychain"><hr>
+    <img src="image folder/3d model(2).png" alt=" keychain2"> 
+    
+    <h3> To create a 3D model in Blender, I primarily needed a mix of 
+        technical software proficiency and artistic foundational skills. According 
+        to me, key skills is 3D navigation and an understanding of topology to ensure 
+         clean, efficient models. On the tool side, the most essential for any modeler are
+          transformations (Move, Rotate, Scale) and core editing functions like Extrude 
+          (E), Inset (I), Bevel (Ctrl+B), and Loop Cut (Ctrl+R). Additionally, 
+          using Modifiers, such as Mirror or Subdivision Surface which allows for
+           non-destructive modeling, while hardware like a 3-button mouse 
+           and a mid-grade PC with a dedicated graphics card 
+            are necessary to run the software smoothly. </h3><hr>
+
+
+<h1> Thank you very much for visiting my website.</h1><hr><hr>
+</body>
+</html>
